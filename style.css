@@ -19,6 +19,7 @@
 .body {
   font-family: var(--monserrat), san-serif;
   font-weight: 400;
+  overflow-x: hidden;
 }
 
 .container {
