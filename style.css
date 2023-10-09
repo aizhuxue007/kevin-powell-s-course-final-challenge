@@ -169,7 +169,7 @@ header nav ul li:last-child a{
 
 .cta-container {
   display: flex;
-  justify-content: end;
+  justify-content: center;
 }
 
 .hero__info .cta-container a {
